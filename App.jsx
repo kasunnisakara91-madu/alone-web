@@ -2,7 +2,7 @@
 function App() {
   
   // ashi code by ===> your bot link setup 
-  const botLink = "https://madusanka-md-production.up.railway.app/";
+  const botLink = "alone-x-md-production.up.railway.app";
   
   // ashi code by ===> channel link setup
   const channelLink = "https://whatsapp.com/channel/0029Vb7p3UCCHDyocfEGm23f";
@@ -11,7 +11,7 @@ function App() {
   const groupLink = "https://chat.whatsapp.com/I7eReF73VGu4EU9kF9w4uS";
   
   // ashi code by ===> Contact Link setup
-  const ownerLink = "https://wa.me/+94779357798?text=*Hey_༺ ALONE X MD ꙰༻_owner 👋*";
+  const ownerLink = "https://wa.me/+94773495139?text=*Hey_༺ ALONE X MD ꙰༻_owner 👋*";
   
   
   // ======= code ahiya menu by open / close code
