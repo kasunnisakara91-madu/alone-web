@@ -27,11 +27,11 @@ function App() {
     return (<>
     <header>
         <div className="logo">
-          <img src="src/madu-logo.jpg" alt="logo" />
+          <img src="src/madu-logojpg.png" alt="logo" />
         </div>
 
        <div className="brand-text">
-          <h2>MADUSANKA-MD MINI BOT</h2>
+          <h2>༺ ALONE X MD ꙰༻ MINI BOT</h2>
         </div>
 
 <div className="menu-btn" onClick={toggleMenu}>☰</div>
@@ -63,8 +63,8 @@ function App() {
         <img src="src/madu-banner-logojpg.png" alt="banner" />
      </div>
   <div className="bot-text">
-    <h1>WELCOME TO MADUSANKA-MD V.2 MINI BOT</h1>
-     <p>MADUSANKA-MD Mini BOT makes your WhatsApp experience easier, faster, and more automated.</p>
+    <h1>WELCOME TO ༺ ALONE X MD ꙰༻ V.6 MINI BOT</h1>
+     <p>༺ ALONE X MD ꙰༻ Mini BOT makes your WhatsApp experience easier, faster, and more automated.</p>
    </div> 
      
  <div className="btns"> 
@@ -79,19 +79,19 @@ function App() {
  <div className="about-me" id="about">
     <img src="src/madu-logo.jpg"></img>
     
-    <i><h2>MADUSANK-MD BOT ABOUT</h2></i>
+    <i><h2>༺ ALONE X MD ꙰༻ BOT ABOUT</h2></i>
     
-    <p>MADUSANK-MD is a modern and powerful WhatsApp automation bot developed using JavaScript and Node.js technologies. It is designed to provide users with a fast, smooth, and advanced WhatsApp experience.</p>
+    <p>༺ ALONE X MD ꙰༻ is a modern and powerful WhatsApp automation bot developed using JavaScript and Node.js technologies. It is designed to provide users with a fast, smooth, and advanced WhatsApp experience.</p>
     
     <p>This bot includes many useful features such as group management tools, auto replies, media download commands, AI-powered features, sticker creation, search systems, fun commands, and many more advanced functions. Its stylish design and user-friendly command system make it popular among WhatsApp users.</p>
     
-    <p>MADUSANK-MD is built with a strong focus on speed, stability, and customization, making it easy to deploy and customize for personal or public use. It supports multi-device WhatsApp connections and can be deployed on platforms like Heroku, Render, Railway, and others.</p>
+    <p>༺ ALONE X MD ꙰༻ is built with a strong focus on speed, stability, and customization, making it easy to deploy and customize for personal or public use. It supports multi-device WhatsApp connections and can be deployed on platforms like Heroku, Render, Railway, and others.</p>
     <br></br>
    </div>
  </div>
  
 <div className="footer">
-  <p>&copy; 2026 POWERED BY MADUSANKA-MD MINI BOT</p>
+  <p>&copy; 2026 POWERED BY ༺ ALONE X MD ꙰༻ MINI BOT</p>
 </div>
   </>)
   }
