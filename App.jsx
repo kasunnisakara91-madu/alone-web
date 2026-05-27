@@ -77,7 +77,7 @@ function App() {
  
  
  <div className="about-me" id="about">
-    <img src="src/madu-logo.jpg"></img>
+    <img src="src/madu-logojpg.png"></img>
     
     <i><h2>༺ ALONE X MD ꙰༻ BOT ABOUT</h2></i>
     
