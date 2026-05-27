@@ -38,7 +38,7 @@ function App() {
 
         {/* MENU */}
         <nav className="menu">
-          <img src="src/madu-logo.jpg"></img>
+          <img src="src/madu-logojpg.png"></img>
           <h3>&lt;/&gt; MADUSANKA Dev</h3>
           <span></span>
           <a href="#App.jsx"><i className="fa-solid fa-house"></i> Home</a>
